@@ -1,6 +1,35 @@
 # 💫 About Me:
-# Hi, I'm Megha 👋<br><br>🎓 1st Year Engineering Student<br>💻 Currently learning Python & Open Source<br>🚀 Preparing for GSSoC 2026<br><br>## 🔥 Skills<br><br>* HTML & CSS(Basic)<br>*Python (Beginner)<br>* Git & GitHub<br>* Problem Solving (Learning)<br><br>## 📅 Current Focus<br><br>* Python 100 Days Bootcamp<br>* Open Source Contributions<br><br>## 📌 Projects<br><br>* Python Learning Journey 🚀<br><br>## 🎯 Goal<br><br>To get internships and build strong coding skill<br><br>
+# 👋 Hi, I'm Megha
 
+🎓 1st Year Engineering Student  
+💻 Currently learning Python & Open Source  
+🚀 Preparing for GSSoC 2026  
+
+---
+
+## 🔥 Skills
+* HTML & CSS (Basic)
+* Python (Beginner)
+* Git & GitHub
+* Problem Solving (Learning)
+
+---
+
+## 📌 Current Focus
+* Python 100 Days Bootcamp  
+* Open Source Contributions  
+
+---
+
+## 📌 Projects
+* Python Learning Journey 🚀  
+
+---
+
+## 🎯 Goal
+To get internships and build strong coding skills  
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/megha-pise) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meghapise07@gmail.com) 
