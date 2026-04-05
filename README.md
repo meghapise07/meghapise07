@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Megha 👋<br><br>🎓 1st Year Engineering Student<br>💻 Currently learning Python & Open Source<br>🚀 Preparing for GSSoC 2026<br><br>## 🔥 Skills<br><br>* Python (Beginner)<br>* Git & GitHub<br>* Problem Solving (Learning)<br><br>## 📅 Current Focus<br><br>* Python 100 Days Bootcamp<br>* Open Source Contributions<br><br>## 📌 Projects<br><br>* Python Learning Journey 🚀<br><br>## 🎯 Goal<br><br>To get internships and build strong coding skill<br><br>
+# Hi, I'm Megha 👋<br><br>🎓 1st Year Engineering Student<br>💻 Currently learning Python & Open Source<br>🚀 Preparing for GSSoC 2026<br><br>## 🔥 Skills<br><br>* HTML & CSS(Basic)<br>*Python (Beginner)<br>* Git & GitHub<br>* Problem Solving (Learning)<br><br>## 📅 Current Focus<br><br>* Python 100 Days Bootcamp<br>* Open Source Contributions<br><br>## 📌 Projects<br><br>* Python Learning Journey 🚀<br><br>## 🎯 Goal<br><br>To get internships and build strong coding skill<br><br>
 
 
 ## 🌐 Socials:
